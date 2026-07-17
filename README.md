@@ -2,7 +2,7 @@
 
 An agent pipeline that researched 100 apps across 10 categories (CRM/Sales, Support, Communications, Marketing/Ads, Ecommerce, Data/SEO/Scraping, Developer/Infra, Productivity, Finance/Fintech, AI/Research) for AI-agent-toolkit buildability: auth method, self-serve vs. gated access, API surface, and whether an MCP server exists. Results were independently checked through three separate verification methods, then rendered into a single-page case study.
 
-- **Live case study:** `LIVE_URL_HERE`
+- **Live case study:** `https://composio-research-agent-sandy.vercel.app/`
 - **This repo:** `https://github.com/anniecoder212/composio-research-agent`
 
 ## Quickstart
